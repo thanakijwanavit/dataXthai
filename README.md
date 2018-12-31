@@ -1,6 +1,7 @@
 Data-X Masterclass
 ======================
 
+Pytorch branch aims to add pytorch framwork to the existing keras
 
 ### Dec 11-14, 2018
 
